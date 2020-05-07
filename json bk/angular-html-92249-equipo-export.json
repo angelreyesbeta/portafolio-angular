@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "nombre" : "Angel Reyes Betancur",
+  "subtitulo" : "Ingeniero",
+  "twitter" : "@angelreyesbeta",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-92249.appspot.com/o/team-1.jpg?alt=media&token=5ab29ab2-5411-459c-945a-16697b457d4a"
+}, {
+  "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "nombre" : "Leisy Leudo",
+  "subtitulo" : "Fisioterapeuta",
+  "twitter" : "@leisyyu",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-92249.appspot.com/o/team-2.jpg?alt=media&token=7350e1b9-f31a-496c-b7ce-d815647dbff6"
+}, {
+  "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "nombre" : "Haider Samir",
+  "subtitulo" : "Arquitecto",
+  "twitter" : "@haidersalas",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-92249.appspot.com/o/team-3.jpg?alt=media&token=c4df5204-f2c5-461c-b0de-605a2c4229da"
+} ]
